@@ -12,8 +12,8 @@
 const kabeer = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Ruby, C#, C++, C],
-  tools: [React, Unity, Photoshop, Illustrator, Blender],
-  challenge: "I am doing the #100DaysOfCode challenge focused on unity and C#"
+  tools: [ReactJs, NodeJs, ExpressJs, MongoDB, Unity, Photoshop, Illustrator],
+  challenge: "I am doing the #100DaysOfCode challenge focused on MERN and JS"
 }
 ```
 
